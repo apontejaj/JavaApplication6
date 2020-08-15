@@ -11,8 +11,8 @@ package model;
  */
 public class Car {
     
-    String make;
-    int year;
+    private String make;
+    private int year;
     
     /**
      * Default constructor

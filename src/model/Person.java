@@ -26,7 +26,7 @@ public class Person {
         this.run();
     }
     
-    protected void run(){
+    public void run(){
         System.out.println(name + " is running");
     }
     
