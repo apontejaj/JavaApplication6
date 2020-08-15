@@ -27,7 +27,7 @@ public class JavaApplication6 {
         p2.run();
         
         Dog d1 = new Dog("Fluffy");
-        
+        Dog d2 = new Dog("Fluffy");
     }
     
 }
