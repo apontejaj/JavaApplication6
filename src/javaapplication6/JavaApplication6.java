@@ -20,6 +20,20 @@ public class JavaApplication6 {
     public static void main(String[] args) {
         // TODO code application logic here
         
+        Person p1 = new Person("Amilcar", 35, 1.77);
+        p1.run();
+        
+        Person p2 = new Person("Peter", 35, 1.77);
+        p2.run();
+        
+        Dog d1 = new Dog("Fluffy");
+        Dog d2 = new Dog("Fluffy");
+        
+        System.out.println("hello you");
+        System.out.println("hello you");
+        System.out.println("hello you");
+        
+        
 
     }
     
